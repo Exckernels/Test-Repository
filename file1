@@ -1,4 +1,4 @@
-Hello world!
+help me Hello world!
 123 
 public Main {
 	public static void main(String[] args){
@@ -9,3 +9,4 @@ public Main {
 	}
 	System.out.println("Goodbye");
 }
+line from user 1
