@@ -10,3 +10,4 @@ public Main {
 	System.out.println("Goodbye");
 }
 line from user 1
+line from user 1 - lesson about rebase
